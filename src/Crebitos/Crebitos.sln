@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crebitos", "Crebitos.csproj", "{15E12355-A680-4BEB-B366-5F09E0A00A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E12355-A680-4BEB-B366-5F09E0A00A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E12355-A680-4BEB-B366-5F09E0A00A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E12355-A680-4BEB-B366-5F09E0A00A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E12355-A680-4BEB-B366-5F09E0A00A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {772467BF-156B-4307-AA28-9D74B45042E8}
+	EndGlobalSection
+EndGlobal
